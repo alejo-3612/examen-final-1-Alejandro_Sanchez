@@ -1,5 +1,8 @@
 # DragonDex - Examen Final
 
+Examen final Alejandro Sanchez Lopez 
+se remplazo en la carpeta de app.tsx el codgio base de vite por la estructura real del proyecto con enlaces a catalogo, favorito y las demas rutas, tambien se implementaron todaas las funciones requeridas por el examen
+
 Catálogo de dragones usando PokéAPI.
 
 ## Instalación
