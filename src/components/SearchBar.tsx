@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 export default function SearchBar({ onSearch }: { onSearch: (value: string) => void }) {
         // TODO: Implementar input controlado que llame a onSearch
   return (
@@ -14,3 +15,9 @@ export default function SearchBar({ onSearch }: { onSearch: (value: string) => v
 
 
   
+=======
+export default function SearchBar({ onSearch }) {
+    // TODO: Implementar input controlado que llame a onSearch
+    return <input type="text" placeholder="Buscar dragón..." className="..." />
+}
+>>>>>>> a823d38ab3ffd379c07de7834e55cb8000fb86a6
